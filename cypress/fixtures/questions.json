@@ -1,0 +1,19 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        { "text": "Berlin", "isCorrect": false },
+        { "text": "Madrid", "isCorrect": false },
+        { "text": "Paris", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is 3 + 2?",
+      "answers": [
+        { "text": "4", "isCorrect": false },
+        { "text": "5", "isCorrect": true },
+        { "text": "6", "isCorrect": false }
+      ]
+    }
+  ]
+  
